@@ -1,7 +1,7 @@
-#Neovim Configuration
+# Neovim Configuration
 Hello, this is my **neovim** configuration.
 
-##Requirements
+## Requirements
 
 - If you are using windows 10
   1. [Chocolatey](https://chocolatey.org/install) or scoop
@@ -16,7 +16,7 @@ Hello, this is my **neovim** configuration.
 
 - A patched font
 
-##Installation
+## Installation
 ```
 git clone https://github.com/rustymex/neovim-adal
 ```
